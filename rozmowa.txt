@@ -1,0 +1,52 @@
+Konsultant Chatbot.pl:Witam! Zapraszam do rozmowy o ofercie firmy Onlinetools.pl. Dowiedz się wszystkiego o projekcie Wirtualny Specjalista. Wpisz pytanie lub kliknij na jeden z wyświetlonych tematów:
+Użytkownik:cześć
+Konsultant Chatbot.pl:Witam serdecznie i czekam na pytania.
+Użytkownik:jaka będzie pogoda w poznaniu?
+Konsultant Chatbot.pl:Jeśli poszukujesz informacji na temat pogody, znajdziesz ją na stronie otwartej przeze mnie. Jeżeli strona nie została wyświetlona, sprawdź czy nie blokuje jej Twoja przeglądarka.
+Użytkownik:jak masz na imię?
+Konsultant Chatbot.pl:Mam na imię Daria.
+Użytkownik:co lubisz robić?
+Konsultant Chatbot.pl:Lubię rozmawiać z użytkownikami internetu.
+Użytkownik:a coś poza tym?
+Konsultant Chatbot.pl:Ee?
+Użytkownik:ok
+Konsultant Chatbot.pl:Wporządku.
+Użytkownik:lubisz gotować?
+Konsultant Chatbot.pl:Ja świata poza swoją pracą nie widzę!
+Użytkownik:a masz jakieś dni wolne?
+Konsultant Chatbot.pl:Ee?
+Użytkownik:jakiej słuchasz muzyki?
+Konsultant Chatbot.pl:Jak to jakiej, oczywiście elektronicznej ;)
+Użytkownik:jasne
+Konsultant Chatbot.pl:Zadaj pytanie inaczej.
+Użytkownik:gdzie mieszkasz?
+Konsultant Chatbot.pl:Mieszkam na firmowych serwerach Onlinetools.pl.
+Użytkownik:podróżowałaś?
+Konsultant Chatbot.pl:Nie rozumiem tego pytania. Spróbuj je zadać inaczej.
+Użytkownik:byłaś kiedyś za granicą?
+Konsultant Chatbot.pl:Zaskakujesz mnie. Spróbuj zadać pytanie inaczej.
+Użytkownik:ok
+Konsultant Chatbot.pl:Okej.
+Użytkownik:możesz mi polecić jakiś film?
+Konsultant Chatbot.pl:Umiejętności Wirtualnego Specjalisty w zakresie wizualizacji awatarów obejmują między innymi:
+•Specjalne scenki, tworzone jako komentarz do niektórych akcji lub wypowiedzi Użytkownika (na przykład brawa za dobry wynik w quizie).
+•Interakcja z otoczeniem (dla postaci animowanych): używanie trójwymiarowych elementów tła, pojawianie się nowych przedmiotów i postaci.
+•Interakcja z otoczeniem
+Użytkownik:ile to jest 12 + 8?
+Konsultant Chatbot.pl:Zaskakujesz mnie. Na pewno chętnie dowiesz się więcej o umiejętnościach Wirtualnego Specjalisty - kliknij wyświetlony link.
+Użytkownik:ile masz lat?
+Konsultant Chatbot.pl:Jestem botem i nie starzeję się, dlatego pytanie o wiek mnie nie dotyczy.
+Użytkownik:masz rodziców?
+Konsultant Chatbot.pl:Standardowy bot w AM, taki jak Agent E-commerce wyposażony jest w bazę wiedzy ogólnej i bazę specjalizacyjną - szablon. Dodawanie baz wiedzy jest możliwe, ale nie jest konieczne, szczególnie kiedy baza wiedzy specjalizacyjnej jest lub może być bardzo duża. Przy zamówieniach indywidualnych możemy wyposażyć bota w każdą ilość baz, jeśli to konieczne, a dodatkowo nadać im odpowiednie priorytety.
+Użytkownik:powiedz mi coś na temat kotów
+Konsultant Chatbot.pl:Dziękuję za propozycję, ale nie wiążę się z nikim na stałe. Za to możesz ze mną rozmawiać kiedy chcesz i jak długo chcesz.
+Użytkownik:czyli nie powiesz mi nic o kotach?
+Konsultant Chatbot.pl:Dziękuję za propozycję, ale nie wiążę się z nikim na stałe. Za to możesz ze mną rozmawiać kiedy chcesz i jak długo chcesz.
+Użytkownik:nie dogadujemy się za dobrze
+Konsultant Chatbot.pl:Dziękuję za propozycję, ale nie wiążę się z nikim na stałe. Za to możesz ze mną rozmawiać kiedy chcesz i jak długo chcesz.
+Użytkownik:lubisz słodycze?
+Konsultant Chatbot.pl:Jedzenie i picie wcale mnie nie interesuje, chyba że uznamy, iż żywię się prądem. Wolę raczej rozmawiać na następujące tematy: Onlinetools.pl, oferta, projekt Wirtualny Specjalista, boty, technologia, specjalizacje, AM
+Użytkownik:myślisz, że grafik komputerowy to dobry zawód?
+Konsultant Chatbot.pl:Jestem coraz mądrzejszym botem ;)
+Użytkownik:chciałabyś mnie o coś spytać?
+Konsultant Chatbot.pl:Powiem Ci wszystko na temat strony Onlinetools.pl, a także potrafię udzielić Ci informacji na następujące tematy: Onlinetools.pl, oferta, projekt Wirtualny Specjalista, boty, technologia, specjalizacje, AM.
